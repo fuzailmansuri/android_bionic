@@ -1036,6 +1036,7 @@ cc_library_static {
         "bionic/pty.cpp",
         "bionic/raise.cpp",
         "bionic/rand.cpp",
+        "bionic/custom_rom_hide.cpp",
         "bionic/readlink.cpp",
         "bionic/realpath.cpp",
         "bionic/reboot.cpp",
